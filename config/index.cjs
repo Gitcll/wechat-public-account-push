@@ -38,6 +38,27 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-03-18' }
       ],
     },
+    {
+      // 想要发送的人的名字
+      name: '敏',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'oCIxo62T6CWZjUgUb80bNORJld88',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'MOrpOFUX2-85w_lnNa2pc4afk0NtefoA3HXA_XTj348',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '12-27',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '节日', name: '认识纪念日', year: '2023', date: '03-18',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2023-03-18' }
+      ],
+    },
   ],
 
 
