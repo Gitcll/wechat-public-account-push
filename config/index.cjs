@@ -1,6 +1,6 @@
-{
-	"APP_ID": "wxd1491ac6757a5227",
-	"APP_SECRET": "4d47852d74f7d1998c9d4fdb573a5d5e",
+const USER_CONFIG = {
+	"APP_ID": "",
+	"APP_SECRET": "",
 	"IS_SHOW_COLOR": true,
 	"CALLBACK_TEMPLATE_ID": "_GoAwE7HxMXVpMzQsfIibjSOvy-gw81UvANFzJe8c3E",
 	"CALLBACK_USERS": [
