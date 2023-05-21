@@ -2,13 +2,6 @@ const USER_CONFIG = {
 	"APP_ID": "",
 	"APP_SECRET": "",
 	"IS_SHOW_COLOR": true,
-	"CALLBACK_TEMPLATE_ID": "_GoAwE7HxMXVpMzQsfIibjSOvy-gw81UvANFzJe8c3E",
-	"CALLBACK_USERS": [
-		{
-			"name": "自己",
-			"id": "oCIxo63CHmMlqDFNLLuX-gOMrsVM"
-		}
-	],
 	"USERS": [
 		{
 			"name": "宝贝",
@@ -28,6 +21,13 @@ const USER_CONFIG = {
 				}
 			],
 			"customizedDateList": []
+		}
+	],
+	"CALLBACK_TEMPLATE_ID": "_GoAwE7HxMXVpMzQsfIibjSOvy-gw81UvANFzJe8c3E",
+	"CALLBACK_USERS": [
+		{
+			"name": "自己",
+			"id": "oCIxo63CHmMlqDFNLLuX-gOMrsVM"
 		}
 	],
 	"SWITCH": {
